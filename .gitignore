@@ -1,8 +1,8 @@
-.classpath
-.project
-.scala_dependencies
-commands.pyc
-bin
-lib
-dist
-modules
+/.classpath
+/.project
+/.scala_dependencies
+/commands.pyc
+/bin
+/lib
+/dist
+/modules
